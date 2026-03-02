@@ -1,6 +1,7 @@
 Hikari — Lighting Store
 --
-Hikari is a fictional online store for lamps and lighting products. It was my first JavaScript project, developed at Da Vinci School as part of my Web Design and Development technician program, in the Programming 1 course.
+Hikari is a fictional online store for lamps and lighting products. It was developed as part of my Web Design and Development technician program at Da Vinci School.
+The project focuses on structured business logic implementation, including conditional discount rules, installment calculations based on selected payment methods and persistent state management using LocalStorage. The architecture emphasizes separation of concerns, predictable state updates, and modular JavaScript design using ES6 classes.
 
 Technologies Used
 - HTML5 
