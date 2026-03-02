@@ -8,9 +8,6 @@ Technologies Used
 - CSS3 
 - JavaScript (ES6+) —  no frameworks or external libraries
 
-How to Run Locally
-No installation or dependencies needed. Just download the files and open index.html in your browser.
-
 What I Learned
 This project was a great exercise to solidify several JavaScript concepts:
 - OOP with classes: modeled products and cart items using classes (Product, CartItem), which made the code much cleaner and easier to maintain.
@@ -18,7 +15,6 @@ This project was a great exercise to solidify several JavaScript concepts:
 - LocalStorage persistence: implemented cart saving and recovery between sessions, including applied discount logic.
 - Form validation: the checkout flow includes card number, CVV and expiry date validation using the browser's native API.
 Native <dialog> element: used the built-in HTML element instead of recreating modals with divs, which simplified open/close handling significantly.
-
 
 📁 Project Structure
 hikari/
